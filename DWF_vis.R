@@ -5,7 +5,6 @@ library(tidyverse)
 library(readxl)
 library(janitor)
 library(patchwork)
-#library(ggfx)
 library(geomtextpath)
 library(packcircles)
 library(ggbeeswarm)
@@ -66,11 +65,6 @@ actions_data |>
 actions_data |>
   distinct(source)
 
-# # step, segment, metric categories
-# segment_names <- unique(actions_data$segment)
-# metric_names <- unique(actions_data$metric)
-# steps_names <- unique(actions_data$steps)
-
 # total number of actions in each stage ----
 actions_data |>
   group_by(stage) |>
@@ -80,35 +74,6 @@ actions_data |>
 actions_data |>
   group_by(steps) |>
   summarise(n_actions = sum(count_of_participants))
-
-# # stage actions, by quarter ----
-# 
-# # number of actions in each stage, by quarter
-# stage_data <- actions_data |>
-#   group_by(quarter_labels, stage) |>
-#   summarise(
-#     n_actions = sum(count_of_participants),
-#     n_actions_weighted = sum(total_participants_by_weight)
-#   ) 
-# 
-# # plot
-# ggplot(stage_data, 
-#        aes(x = quarter_labels, y = n_actions, group = stage, colour = factor(stage))) +
-#   geom_line(linewidth = 1.5) +
-#   scale_colour_manual(values = clr_stages_med) +
-#   facet_wrap(~stage, nrow = 3, scales = 'free') +
-#   dwf_line_theme_minimal(path_clrs) +
-#   labs(x = '', y = '', strip = '')
-# 
-# # number of actions in each state, by quarter ----
-# stage_data <- actions_data |>
-#   group_by(quarter_labels, stage) |>
-#   summarise(
-#     n_actions = sum(count_of_participants),
-#     n_actions_weighted = sum(total_participants_by_weight)
-#   ) 
-# 
-
 
 # n actions in each step, by quarter ----
 
