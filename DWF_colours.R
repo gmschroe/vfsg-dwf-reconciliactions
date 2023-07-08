@@ -1,17 +1,5 @@
 # colours for DWF vis
 
-#c('#ede6c6', '#dccfaa', '#cbb990', '#bba376', '#ac8d5e', '#9d7747', '#8e6131')
-
-#c('#f5ddad', '#e3c796','#d2b281', '#c19d6c', '#b08957', '#9f7544', '#8e6131')
-
-#c('#c5d5d4', '#b2c4c5', '#9fb4b6', '#8da4a8', '#7b949a', '#6a848c', '#5a747f')
-
-#c('#c6d3d4', '#afbfc2', '#98abb0', '#82979f', '#6e838e', '#5b707e', '#495d6e')
-
-#c('#dce9e9', '#c1d9da', '#a7cacb' ,'#8cbabd', '#70abaf', '#529ba2', '#2e8c95')
-
-#c('#efe4c4', '#decea9', '#cdb78f', '#bda176', '#ad8c5e', '#9e7647', '#8e6131')
-
 # colours for each stage ----
 # pulled from Secret Path palette (https://www.youtube.com/watch?v=yGd764YU9yc)
 
@@ -39,3 +27,23 @@ clr_b_charcoal <- c('#3A3939')
 clr_b_light_purple <- c('#D4CEDC')
 clr_b_light_grey <- c('#E5E5E5')
 clr_c_white <- c('#FFFFFF')
+
+#steps as brand colours
+clr_steps_purple <- c(
+  '#d4cedc',
+  '#b1a3c2',
+  '#8f79a8',
+  '#6f508e',
+  '#4f2874'
+)
+
+clr_grey_shades <- c(
+  '#e5e5e5',
+  '#cacaca',
+  '#b0b0b0',
+  '#979696',
+  '#7e7e7e',
+  '#676666',
+  '#504f4f',
+  '#3a3939'
+)
