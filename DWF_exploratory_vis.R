@@ -13,7 +13,7 @@ source('DWF_lib.R')
 path_clrs <- 'DWF_colours.R'
 source(path_clrs)
 
-# load reconcilACTIONS data ----
+# load reconciliACTIONS data ----
 
 actions_data_path <- file.path('data', 'ReconciliACTIONS_table.xlsx')
 actions_data <- load_reconciliactions(actions_data_path)
