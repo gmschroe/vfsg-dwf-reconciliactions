@@ -37,7 +37,16 @@ The report first lays out definitions for steps and stages (part of the DWF’s 
 
 The next pages then explore reconciliACTIONs using the combined categorisation into both steps and stages, with each stage broken down into the five possible reconciliACTION steps. One visualisation shows how the number of reconciliACTIONs in each combined category changed over time, while the other shows the contributions of different types of reconciliACTIONs, coloured by their categories. 
 
+<img src = "vis_png_versions/dwf_report_04.png" width="300" alt="Page 4 of the reconciliACTIONs report, showing the number of reconciliACTIONs in each step and stage for each quarter in the two financial years. Each step, stage, and quarter is represented by one circle, with the size of the circle indicating the number of actions. The circles are plotted on a railway track made out of lyrics from The Secret Path album.">  <img src = "vis_png_versions/dwf_report_05.png" width="300" alt="Page 5 of the reconciliACTIONs report, showing the number of times people took over 50 different types of reconciliACTIONs. Each circle in the chart corresponds to a type of action, with the size of the circle corresponding to the number of times people have participated in that type of action. Actions are roughly ordered from top to bottom and also coloured by the DWF’s categorisation of actions.">
+">
+
 Finally, I end with a call-to-action to Do Something to progress reconciliation by providing a template for tracking reconciliACTIONs. The latter was inspired by the DWF’s comment that they do not have reconciliACTION data at the level of individuals – i.e., they do not know which actions any one person has taken. I therefore wanted to invite people to track their own progress. I decided to distinguish between steps, but not stages, on the tracking template since it may be more difficult for non-experts to categorise their reconciliACTIONs by stages. Additionally, most people’s reconciliACTIONs will be in only one or two of the stages, at least in the near future.
+
+<img src = "vis_png_versions/dwf_report_06.png" width="300" alt="Page 6 of the reconciliACTIONs report, which provides a template for people to track their five different reconciliACTION steps. The boxes for tracking reconciliACTIONs are plotted with a watercolour effect."> 
+
+The final page of the report provides short descriptions the DWF and VFSG, as well as ways for people to find out more information about these two organisations.
+
+<img src = "vis_png_versions/dwf_report_07.png" width="300" alt="Page 7 of the reconciliACTIONs report, with information about the DWF and VFSG."> 
 
 ### Colours and symbols
 
