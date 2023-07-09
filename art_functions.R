@@ -85,15 +85,6 @@ show_multipolygon <- function(polygon, fill, alpha = .02, ...) {
     theme_void()
 }
 
-# Code by GMS -----
-
-make_rail_rectangle <- function(h, w, x_shift = 0, y_shift = 0) {
-  tibble(
-    x = c(0, w, w, 0, 0) + x_shift,
-    y = c(0, 0, h, h, 0) + y_shift,
-    seg_len = c(w, h, h, w, 0))
-}
-
 # adapted from "smudged_hexagon"
 # use base shape after grow_polygon_l as input
 smudged_rail <- function(
@@ -142,4 +133,13 @@ smudged_rail <- function(
   
   # return as data frame
   bind_rows(polygons, .id = "id")
+}
+
+# Code by GMS -----
+
+make_rail_rectangle <- function(h, w, x_shift = 0, y_shift = 0) {
+  tibble(
+    x = c(0, w, w, 0, 0) + x_shift,
+    y = c(0, 0, h, h, 0) + y_shift,
+    seg_len = c(w, h, h, w, 0))
 }
