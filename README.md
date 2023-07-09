@@ -29,7 +29,11 @@ R, Adobe Illustrator, and Adobe InDesign.
 
 The DWF asked for visualisations that allowed them to explore and communicate their impact, as measured by reconciliACTIONs: meaningful actions that progress reconciliation between Indigenous and non-Indigenous peoples in Canada. I decided to make a report in a style similar to their [yearly reports](https://downiewenjack.ca/news-publications/annual-report/). 
 
+<img src = "vis_png_versions/dwf_report_01.png" width="300" alt="Cover page of my reconciliACTIONs report for DWF, with an image of a watercolour painting of Chanie Wenjack walking along a railway track. The report title is 'Two Years of reconciliACTION'">
+
 The report first lays out definitions for steps and stages (part of the DWF’s model for measuring the impact of reconciliACTIONs), while visualising progress within each of these categories. These first visualisations and descriptions give the reader a big picture overview of the DWF’s progress as well as a foundation for understanding the DWF’s model of reconciliACTIONs. 
+
+<img src = "vis_png_versions/dwf_report_02.png" width="300" alt="Page 2 of the reconciliACTIONs report, with definitions and visualisations of the different reconciliACTION steps">  <img src = "vis_png_versions/dwf_report_03.png" width="300" alt="Page 3 of the reconciliACTIONs report, with definitions and visualisations of the different reconciliACTION steps">
 
 The next pages then explore reconciliACTIONs using the combined categorisation into both steps and stages, with each stage broken down into the five possible reconciliACTION steps. One visualisation shows how the number of reconciliACTIONs in each combined category changed over time, while the other shows the contributions of different types of reconciliACTIONs, coloured by their categories. 
 
