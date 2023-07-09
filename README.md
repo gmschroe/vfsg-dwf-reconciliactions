@@ -2,7 +2,7 @@
 
 ## About the project
 
-This work was a volunteer project for Viz for Social Good (VFSG) in partnership with the Gord Downie & Chanie Wenjack Fund (DWF). The DWF aims to build cultural understanding and create a path towards reconciliation between Indigenous and non-Indigenous peoples in Canada.
+This work was a volunteer project for [Viz for Social Good (VFSG) in partnership with the Gord Downie & Chanie Wenjack Fund (DWF)](https://www.vizforsocialgood.com/join-a-project/2023/gord-downie-chanie-wenjack-fun). The DWF aims to build cultural understanding and create a path towards reconciliation between Indigenous and non-Indigenous peoples in Canada.
 
 ## Deliverables
 
