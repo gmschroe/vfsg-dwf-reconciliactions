@@ -51,7 +51,7 @@ The final page of the report provides short descriptions the DWF and VFSG, as we
 
 I worked with the DWF’s brand colours, but I also expanded the colour palette using three main hues from the striking colour palette of one of their main resources, *The Secret Path* film. I used the cooler hues to represent earlier stages of reconciliACTIONs, allowing the warming of the colour palette to symbolise the progression of reconciliation. Meanwhile, each step within each stage is encoded by the lightness of the hue. The colour therefore darkens as the steps become more difficult, which corresponds nicely to the increased impact of the latter steps. The combined hue and lightness encoding allowed me to visualise the combined categorisation of each reconciliACTION in the report’s latter visualisations. 
 
-I also incorporated imagery and art that is central to the DWF’s messaging and identity, including The Secret Path lyrics, train tracks, and watercolour artwork. 
+I also incorporated imagery and art that is central to the DWF’s messaging and identity, including *Secret Path* lyrics, train tracks, and watercolour artwork. 
 
 ### Data decisions
 
