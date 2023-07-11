@@ -6,7 +6,7 @@ This work was a volunteer project for [Viz for Social Good (VFSG) in partnership
 
 ## Deliverables
 
-See the folder “DWF_deliverables” for the final visualisations:
+See the folder “dwf_deliverables” for the final visualisations:
 * A PDF report of reconciliACTIONs for financial years 2021/2022 and 2022/2023 ("dwf_report.pdf")
 * The individual pages of the PDF report ("dwf_report_individual_pages")
 * Separate files of the main figures with DWF and VFSG logos ("standalone_vis")
@@ -49,7 +49,7 @@ The final page of the report provides short descriptions the DWF and VFSG, as we
 
 ### Colours and symbols
 
-I worked with the DWF’s brand colours, but I also expanded the colour palette using three main hues from the striking colour palette of one of their main resources, The Secret Path film. I used the cooler hues to represent earlier stages of reconciliACTIONs, allowing the warming of the colour palette to symbolise the progression of reconciliation. Meanwhile, each step within each stage is encoded by the lightness of the hue. The colour therefore darkens as the steps become more difficult, which corresponds nicely to the increased impact of the latter steps. The combined hue and lightness encoding allowed me to visualise the combined categorisation of each reconciliACTION in the report’s latter visualisations. 
+I worked with the DWF’s brand colours, but I also expanded the colour palette using three main hues from the striking colour palette of one of their main resources, *The Secret Path* film. I used the cooler hues to represent earlier stages of reconciliACTIONs, allowing the warming of the colour palette to symbolise the progression of reconciliation. Meanwhile, each step within each stage is encoded by the lightness of the hue. The colour therefore darkens as the steps become more difficult, which corresponds nicely to the increased impact of the latter steps. The combined hue and lightness encoding allowed me to visualise the combined categorisation of each reconciliACTION in the report’s latter visualisations. 
 
 I also incorporated imagery and art that is central to the DWF’s messaging and identity, including The Secret Path lyrics, train tracks, and watercolour artwork. 
 
