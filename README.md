@@ -4,9 +4,11 @@
 
 This work was a volunteer project for [Viz for Social Good (VFSG) in partnership with the Gord Downie & Chanie Wenjack Fund (DWF)](https://www.vizforsocialgood.com/join-a-project/2023/gord-downie-chanie-wenjack-fun). The DWF aims to build cultural understanding and create a path towards reconciliation between Indigenous and non-Indigenous peoples in Canada.
 
+License: [CC BY-NC 4.0](https://creativecommons.org/licenses/by-nc/4.0/)
+
 ## Deliverables
 
-See the folder “DWF_deliverables” for the final visualisations:
+See the folder “dwf_deliverables” for the final visualisations:
 * A PDF report of reconciliACTIONs for financial years 2021/2022 and 2022/2023 ("dwf_report.pdf")
 * The individual pages of the PDF report ("dwf_report_individual_pages")
 * Separate files of the main figures with DWF and VFSG logos ("standalone_vis")
@@ -38,7 +40,6 @@ The report first lays out definitions for steps and stages (part of the DWF’s 
 The next pages then explore reconciliACTIONs using the combined categorisation into both steps and stages, with each stage broken down into the five possible reconciliACTION steps. One visualisation shows how the number of reconciliACTIONs in each combined category changed over time, while the other shows the contributions of different types of reconciliACTIONs, coloured by their categories. 
 
 <img src = "vis_png_versions/dwf_report_04.png" width="300" alt="Page 4 of the reconciliACTIONs report, showing the number of reconciliACTIONs in each step and stage for each quarter in the two financial years. Each step, stage, and quarter is represented by one circle, with the size of the circle indicating the number of actions. The circles are plotted on a railway track made out of lyrics from The Secret Path album.">  <img src = "vis_png_versions/dwf_report_05.png" width="300" alt="Page 5 of the reconciliACTIONs report, showing the number of times people took over 50 different types of reconciliACTIONs. Each circle in the chart corresponds to a type of action, with the size of the circle corresponding to the number of times people have participated in that type of action. Actions are roughly ordered from top to bottom and also coloured by the DWF’s categorisation of actions.">
-">
 
 Finally, I end with a call-to-action to Do Something to progress reconciliation by providing a template for tracking reconciliACTIONs. The latter was inspired by the DWF’s comment that they do not have reconciliACTION data at the level of individuals – i.e., they do not know which actions any one person has taken. I therefore wanted to invite people to track their own progress. I decided to distinguish between steps, but not stages, on the tracking template since it may be more difficult for non-experts to categorise their reconciliACTIONs by stages. Additionally, most people’s reconciliACTIONs will be in only one or two of the stages, at least in the near future.
 
@@ -50,9 +51,9 @@ The final page of the report provides short descriptions the DWF and VFSG, as we
 
 ### Colours and symbols
 
-I worked with the DWF’s brand colours, but I also expanded the colour palette using three main hues from the striking colour palette of one of their main resources, The Secret Path film. I used the cooler hues to represent earlier stages of reconciliACTIONs, allowing the warming of the colour palette to symbolise the progression of reconciliation. Meanwhile, each step within each stage is encoded by the lightness of the hue. The colour therefore darkens as the steps become more difficult, which corresponds nicely to the increased impact of the latter steps. The combined hue and lightness encoding allowed me to visualise the combined categorisation of each reconciliACTION in the report’s latter visualisations. 
+I worked with the DWF’s brand colours, but I also expanded the colour palette using three main hues from the striking colour palette of one of their main resources, *The Secret Path* film. I used the cooler hues to represent earlier stages of reconciliACTIONs, allowing the warming of the colour palette to symbolise the progression of reconciliation. Meanwhile, each step within each stage is encoded by the lightness of the hue. The colour therefore darkens as the steps become more difficult, which corresponds nicely to the increased impact of the latter steps. The combined hue and lightness encoding allowed me to visualise the combined categorisation of each reconciliACTION in the report’s latter visualisations. 
 
-I also incorporated imagery and art that is central to the DWF’s messaging and identity, including The Secret Path lyrics, train tracks, and watercolour artwork. 
+I also incorporated imagery and art that is central to the DWF’s messaging and identity, including *Secret Path* lyrics, train tracks, and watercolour artwork. 
 
 ### Data decisions
 
